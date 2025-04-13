@@ -3,6 +3,5 @@
 -🌱 I’m currently learning advanced JavaScript and System on Chip (SoC)  
 -💞️ I’m looking to collaborate on web development projects and coding challenges  
 -📫 How to reach me: kratig42@gmail.com
-
 -😄 Pronouns: she/her  
 -⚡ Fun fact: I’m a BCA student with a passion for coding and solving logical puzzles!
